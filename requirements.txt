@@ -1,0 +1,7 @@
+flask
+pypdf
+langchain_community
+numpy
+chromadb
+tiktoken
+langchain_openai
