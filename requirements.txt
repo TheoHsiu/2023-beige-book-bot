@@ -1,7 +1,8 @@
 flask
 pypdf
+langchain
 langchain_community
+langchain_openai
 numpy
 chromadb
 tiktoken
-langchain_openai
